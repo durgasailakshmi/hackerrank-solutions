@@ -1,2 +1,2 @@
 # hackerrank-solutions
-Hacker solutions of all languages Present and Problem solving
+Hacker rank solutions for all problem solving problems and all language problems present in hacker rank
